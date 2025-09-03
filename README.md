@@ -30,13 +30,13 @@ A web-based task management application that allows **Admins** to assign tasks a
 ## 📸 Screenshots  
 
 ### 🔑 Login Page  
-![Login Page](./screenshots/login.png)  
+![Login Page](./src/assets/LoginPage.png)
 
 ### 📊 Employee Dashboard  
-![Employee Dashboard](./screenshots/employee.png)  
+![Employee Dashboard](./src/assets/ED.png)
 
 ### 🛠️ Admin Dashboard  
-![Admin Dashboard](./screenshots/admin.png)  
+![Admin Dashboard](./src/assets/AdminDash.png)
 
 ## 🚀 Getting Started  
 
@@ -44,10 +44,10 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/your-repo-name.git  
+git clone https://github.com/Divcroot/Employee-Task-Management-System.git  
 
 # Go to the project folder
-cd your-repo-name  
+cd Employee-Task-Management-System
 
 # Install dependencies
 npm install  
